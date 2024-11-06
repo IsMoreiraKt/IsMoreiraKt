@@ -1,4 +1,4 @@
-<div align="left" id="logo">
+<div align="center" id="logo">
     <img
         src="./assets/imkt_profile_image.svg"
         alt="Profile Image"
