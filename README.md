@@ -1,13 +1,14 @@
 <img
     align="left"
-    height="100"
+    height="130"
     src="./assets/ismoreirakt.png"
-    style="margin-right: 30px;"
 />
 
 # Ismael Moreira
 * Software Developer
 * Open Source Contributor
+
+<br>
 
 <p align="center">
     <a href="https://ismoreirakt.netlify.app/" style="margin-right: 10px;">
@@ -21,7 +22,7 @@
     </a>
 </p>
 
-<hr><br>
+<br>
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
