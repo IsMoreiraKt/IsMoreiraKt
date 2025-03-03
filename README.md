@@ -11,14 +11,14 @@
 <br>
 
 <p align="center">
+    <a href="https://gitlab.com/IsMoreiraKt" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" height="35" />
+    </a>
     <a href="https://ismoreirakt.netlify.app/" style="margin-right: 10px;">
-        <img src="./assets/website.png" height="35" />
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
     </a>
     <a href="https://www.linkedin.com/in/ismael-moreira-932243280" style="margin-right: 10px;">
-        <img src="./assets/linkedin.png" height="35" />
-    </a>
-    <a href="https://gitlab.gnome.org/IsMoreiraKt/" style="margin-right: 10px;">
-        <img src="./assets/gnome.png" height="35" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
     </a>
 </p>
 
