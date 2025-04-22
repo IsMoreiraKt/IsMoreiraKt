@@ -80,7 +80,6 @@ Greetings, Operator. You have successfully infiltrated the digital realm of IsMo
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsMoreiraKt&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMoreiraKt&theme=tokyonight&layout=compact&hide=html,css,scss" />
-    <img src="https://streak-stats.demolab.com?user=IsMoreiraKt&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
