@@ -73,14 +73,8 @@ Greetings, Operator. You have successfully infiltrated the digital realm of IsMo
 
 - **GitHub:** [IsMoreiraKt](https://github.com/IsMoreiraKt)
 - **GitLab:** [IsMoreiraKt](https://gitlab.com/IsMoreiraKt)
-- **LinkedIn:** [Ismael Moreira](https://www.linkedin.com/in/ismael-moreira-932243280/)
+- **LinkedIn:** [Ismael Moreira](https://www.linkedin.com/in/ismaelmoreirakt/)
 - **Blog:** [IsMoreiraKtBlog](https://ismoreiraktblog.vercel.app/)
-- **Twitter:** [@IsMoreiraKt](https://x.com/IsMoreiraKt_)
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsMoreiraKt&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMoreiraKt&theme=tokyonight&layout=compact" />
-</div>
 
 <br>
 
@@ -89,8 +83,7 @@ Greetings, Operator. You have successfully infiltrated the digital realm of IsMo
 For secure communication, you can reach me through the following channels:
 
 - **Email:** [contact@ismoreirakt.com](mailto:ismaelmoreirakt@gmail.com)
-- **Twitter:** [@IsMoreiraKt](https://x.com/IsMoreiraKt_)
-- **LinkedIn:** [Ismael Moreira](https://www.linkedin.com/in/ismael-moreira-932243280/)
+- **LinkedIn:** [Ismael Moreira](https://www.linkedin.com/in/ismaelmoreirakt/)
 
 <br>
 
