@@ -58,3 +58,31 @@ Most repositories are built around real-world exercises, hiring challenges, or t
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<br>
+
+## Links
+
+<div align="center">
+    <a href="mailto:ismaelmoreirakt@gmail.com">
+        <img
+            src="https://img.icons8.com/color/48/gmail-new.png"
+            alt="Email Badge"
+            width="65"
+        />
+    </a>
+    <a href="https://ismoreiraktblog.vercel.app/">
+        <img
+            src="https://img.icons8.com/color/48/blog.png"
+            alt="Blog Badge"
+            width="65"
+        />
+    </a>
+    <a href="https://gitlab.com/IsMoreiraKt" align="center">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+            alt="Gitlab Badge"
+            width="65"
+        />
+    </a>
+</div>
