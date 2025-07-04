@@ -43,6 +43,16 @@ This is the space where I maintain projects focused on backend development with 
 
 <br>
 
+## About Me
+
+This profile contains practical examples of backend development using Python.
+
+The projects here focus on creating REST APIs, handling automation tasks and integrating external services.
+
+Most repositories are built around real-world exercises, hiring challenges, or tools developed for practical use.
+
+<br>
+
 ## Recent Activity
 
 <!--START_SECTION:activity-->
